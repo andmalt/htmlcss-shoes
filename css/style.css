@@ -26,6 +26,8 @@ li>a{
 .view-s{
     width: 100vw;
     height: 100vh;
+    min-width: 600px;
+    min-height: 790px;
     position: relative;
 }
 .product{
