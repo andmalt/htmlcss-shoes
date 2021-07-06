@@ -26,12 +26,12 @@ li>a{
 .view-s{
     width: 100vw;
     height: 100vh;
-    min-width: 600px;
-    min-height: 790px;
+    min-width: 630px;
+    min-height: 850px;
     position: relative;
 }
 .product{
-    width: 600px;
+    width: 650px;
     height: 700px;
     position: absolute;
     top: 50%;
@@ -45,11 +45,11 @@ li>a{
 }
 .product span{
     color: yellow;
-    font-size: 50px;
+    font-size: 55px;
 }
 .product.g span{
     color: green;
-    font-size: 50px;
+    font-size: 55px;
 }
 #red{
     background-color: red;
