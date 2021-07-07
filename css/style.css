@@ -18,6 +18,7 @@
     background-color: white;
     color: black;
     border-radius: 100%;
+    box-shadow: 8px 8px 15px black;
 }
 li>a{
     text-decoration: none;
